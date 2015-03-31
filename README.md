@@ -1,3 +1,5 @@
-# angularJS-requireJS-portlet
+# AngularJS RequireJS • [TodoMVC](http://todomvc.com)
 
-A proof of concept how to build AngularJS portlets with RequireJS on Liferay.
+> Liferay portlet implemented with AngularJS and RequireJS
+
+![](https://github.com/tastejs/todomvc-app-css/raw/master/screenshot.png)
